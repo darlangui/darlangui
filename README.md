@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlangui&hide=contribs,prs&theme=tokyonight) <br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlangui&layout=compact&count_private=true&theme=tokyonight)](https://github.com/darlangui/github-readme-stats)
+<a href="https://github.com/darlangui/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlangui&layout=compact&count_private=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/darlan/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlangui&hide=contribs,prs&theme=tokyonight" />
+</a>
