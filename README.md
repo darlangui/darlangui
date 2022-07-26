@@ -4,7 +4,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/darlan-guimarães-09870a199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darlan-guimarães-09870a199" height="30" width="40" /></a>
 <a href="https://instagram.com/darlangui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darlangui" height="30" width="40" /></a>
- <a href="https://dev.to/darlaneduardoguimaraes@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darlaneduardoguimaraes@gmail.com" height="30" width="40" /></a>
 </p>
 
 
