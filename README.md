@@ -29,6 +29,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlangui&hide=contribs,prs&theme=radical" />
 </a>
 <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlangui&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
