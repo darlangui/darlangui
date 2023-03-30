@@ -35,8 +35,6 @@ Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlan__gui) :
 Learning quickly and efficiently putting everything into practice in the best possible way.
 
 I have experience with Dev-Ops, Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JavaScript**, **Dart**, **C/C++**, **C#**. I am also comfortable using **Laravel**, **Angular**, **Django**, **Flutter**, and **AWS Service**.
-
-I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. 
     
 </details>
 
@@ -46,6 +44,5 @@ I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/darlan__gui)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-gui/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/darlan-gui/)
-
+    
 </div>
