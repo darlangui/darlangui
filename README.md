@@ -1,17 +1,17 @@
 
 
     
-<h1 align="center"> Victor Wildner </h1>
+<h1 align="center"> Darlan Guimarães </h1>
 
     
 <div align="center">
-<b>Software Engineer | Streamer | FOSS enthusiast | Daydreamer | 🐍🦀🐧🏳️‍🏴🚩</b>
+<b>Software Engineer | Full Stack </b>
 <br>
 <br>
 
 <blockquote>
     <p><i>
-        A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
+       "Any sufficiently advanced technology is indistinguishable from magic" By : Arthur C. Clarke. 🗣️⚛✨🎓
     </i></p>
 </blockquote>
 </div>
