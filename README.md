@@ -5,7 +5,7 @@
 
     
 <div align="center">
-<b>Software Engineer | Full Stack </b>
+<b> Software Engineer | Full Stack </b>
 <br>
 <br>
 
@@ -14,16 +14,6 @@
        "Any sufficiently advanced technology is indistinguishable from magic" By : Arthur C. Clarke. 🗣️⚛✨🎓
     </i></p>
 </blockquote>
-</div>
-
-<div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=vcwild">
-        <img src="https://img.shields.io/twitter/follow/vcwild?style=social&logo=twitter"
-        alt="follow on Twitter">
-    </a>
-    <a href="https://www.twitch.tv/vcwild">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/vcwild?style=social">
-    </a>
 </div>
 
 <details closed>
