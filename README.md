@@ -5,13 +5,13 @@
 
     
 <div align="center">
-<b> Software Engineer | Full Stack </b>
+<b> Software Engineer </b>
 <br>
 <br>
 
 <blockquote>
     <p><i>
-       "An innovation, to be effective, has to be simple and it has to be focused. It should do only one thing, otherwise, it confuses. If it is not simple, it won’t work. Everything new runs into trouble; if complicated, it cannot be repaired or fixed. All effective innovations are breathtakingly simple. Indeed, the greatest praise an innovation can receive is for people to say: ‘This is obvious. Why didn’t I think of it?"             By : Peter F. Drucker. 🗣️⚛✨🎓
+       "An innovation, to be effective, has to be simple and it has to be focused. It should do only one thing, otherwise, it confuses. If it is not simple, it won’t work. Everything new runs into trouble; if complicated, it cannot be repaired or fixed. All effective innovations are breathtakingly simple. Indeed, the greatest praise an innovation can receive is for people to say: ‘This is obvious. Why didn’t I think of it?" Peter F. Drucker, Innovation and Entrepreneurship  🗣️⚛✨🎓
     </i></p>
 </blockquote>
 </div>
@@ -30,15 +30,11 @@
 </div>
 
 
-Hey there!! I am Victor, aka [**@vcwild**](https://twitter.com/vcwild) :wave:😊
+Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlangui) :wave:😊
 
-I am pretty much a life long learner. I enjoy the idea of **Learning in Public** where I can share my thoughts and knowledge with other people through live coding, blogging, discussions, threading, and open source contributions.
+Learning quickly and efficiently putting everything into practice in the best possible way.
 
-I have experience with Dev-Ops, Data Science, Data Engineering, Systems Development, and Back-end web programming. My main knowledge in technologies are **Python**, **C/C++**, **Rust**, **Docker**, **Openshift**, **Kubernetes**. I am also comfortable using **Typescript**, **React**, **Elixir**, **Scala**, and **Java**.
-
-
-
-My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions. 
+I have experience with Dev-Ops, Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JavaScript**, **Dart**, **C/C++**, **C#**. I am also comfortable using **Laravel**, **Angular**, **Django**, **Flutter**, and **AWS Service**.
 
 I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. 
     
@@ -48,11 +44,8 @@ I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vcwild)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vcwild/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/vcwild)
-[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/vcwild)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vcwild)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vcwild)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/darlangui)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-gui/)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/darlangui)
 
 </div>
