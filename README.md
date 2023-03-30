@@ -30,7 +30,7 @@
 </div>
 
 
-Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlangui) :wave:😊
+Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlan__gui) :wave:😊
 
 Learning quickly and efficiently putting everything into practice in the best possible way.
 
@@ -44,7 +44,7 @@ I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/darlangui)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/darlan__gui)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-gui/)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/darlangui)
 
