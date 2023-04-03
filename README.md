@@ -5,7 +5,7 @@
 
     
 <div align="center">
-<b> Software Engineer </b>
+<b> Software Developer | Future Ethical Hacker </b>
 <br>
 <br>
 
