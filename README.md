@@ -32,8 +32,6 @@
 
 Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlan__gui) :wave:😊
 
-Learning quickly and efficiently putting everything into practice in the best possible way.
-
 I have experience with Dev-Ops, Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JavaScript**, **Dart**, **C/C++**, **C#**. I am also comfortable using **Laravel**, **Angular**, **Django**, **Flutter**, and **AWS Service**.
 
 Furthermore, I am always in constant learning in the cybersecurity field, exploring topics such as cryptography, authentication, authorization, and security vulnerabilities. I believe that cybersecurity is a crucial aspect of technology, and I am always looking for ways to improve my skills in this area.
