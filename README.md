@@ -11,7 +11,7 @@
 
 <blockquote>
     <p><i>
-                            There is no absolute security, only awareness of risks and the minimization of threats  🗣️⚛✨🎓
+                            There is no absolute security, only awareness of risks and the minimization of threats!  🗣️⚛✨🎓
     </i></p>
 </blockquote>
 </div>
