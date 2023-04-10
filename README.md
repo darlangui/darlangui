@@ -11,7 +11,7 @@
 
 <blockquote>
     <p><i>
-       "An innovation, to be effective, has to be simple and it has to be focused. It should do only one thing, otherwise, it confuses. If it is not simple, it won’t work. Everything new runs into trouble; if complicated, it cannot be repaired or fixed. All effective innovations are breathtakingly simple. Indeed, the greatest praise an innovation can receive is for people to say: ‘This is obvious. Why didn’t I think of it?" Peter F. Drucker, Innovation and Entrepreneurship  🗣️⚛✨🎓
+                            There is no absolute security, only awareness of risks and the minimization of threats  🗣️⚛✨🎓
     </i></p>
 </blockquote>
 </div>
