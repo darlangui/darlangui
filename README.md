@@ -30,7 +30,7 @@
 </div>
 
 
-Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlan__gui) :wave:😊
+Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlan__gui)  :wave:😊
 
 I have knowledge of Dev-Ops, Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JavaScript**, **Dart**, **C/C++**, **C#**. I am also comfortable using **Laravel**, **Angular**, **Django**, **Flutter**, and **AWS Service**.
 
