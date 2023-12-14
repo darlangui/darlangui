@@ -19,7 +19,7 @@
 
 ---
 
-Hey there!! I am Darlan, aka [**@darlangui**](https://twitter.com/darlan__gui)  :wave:😊
+Hey there!! I am Darlan :wave:😊
 
 Since childhood, I've always been fascinated by the world of technology and its ability to transform the world. Over the years, I've developed strong skills in programming and cybersecurity, which have allowed me to explore the world of **ethical hacking**.
 
