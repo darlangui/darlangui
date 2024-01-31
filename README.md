@@ -32,7 +32,7 @@ Furthermore, I am always in constant learning in the cybersecurity field, explor
 
 <div align="center">
 <b>Thank you for visiting my GitHub profile.</b> <br>
-I'm looking forward to sharing my work with you and contributing to a safer and protected digital world.
+I'm looking forward to sharing my work with you.
 </div>
 </details>
 
