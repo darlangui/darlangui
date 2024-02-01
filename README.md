@@ -3,7 +3,7 @@
 
     
 <div align="center">
-<b> Software Engineer | Future Ethical Hacker </b>
+<b> Developer | Future Ethical Hacker </b>
 <br>
 <br>
 
