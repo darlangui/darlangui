@@ -3,7 +3,7 @@
 
     
 <div align="center">
-<b> Software Developer | Fã de Cibersegurança </b>
+<b> Software Developer | Fã de Cibersegurança | Rust </b>
 <br>
 <br>
 
