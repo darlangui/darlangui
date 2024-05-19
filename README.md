@@ -3,7 +3,7 @@
 
     
 <div align="center">
-<b> Mobile Systems Developer | Fã de Cibersegurança </b>
+<b> Software Developer | Fã de Cibersegurança </b>
 <br>
 <br>
 
@@ -21,11 +21,8 @@
 
 Hey there!! I am Darlan :wave:😊
 
-Since childhood, I've always been fascinated by the world of technology and its ability to transform the world. Over the years, I've developed strong skills in programming and cybersecurity, which have allowed me to explore the world of **ethical hacking**.
+I have knowledge of Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JavaScript**, **C/C++**, **C#** and **Rust**. I am also comfortable using **Laravel**, **Django**, **Vue** and **AWS Service**.
 
-I have knowledge of Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JavaScript**, **C/C++**, **C#** and **Go**. I am also comfortable using **Laravel**, **Django**, **Vue** and **AWS Service**.
-
-Furthermore, I am always in constant learning in the cybersecurity field, exploring topics such as cryptography, authentication, authorization, and security vulnerabilities.
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=darlangui&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darlangui&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darlangui&theme=nord_dark) |
 | :-: | :-: | :-: |
 
