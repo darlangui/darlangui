@@ -5,8 +5,6 @@
 <br>
 <br>
 
-<a href="README.md"><button>Trocar para Inglês</button></a>
-
 <blockquote>
     <p><i>
         Não existe segurança absoluta, apenas consciência dos riscos e a minimização das ameaças!  🗣️⚛✨🎓
@@ -23,6 +21,8 @@ Olá!! Eu sou o Darlan :wave:😊
 
 Tenho conhecimento em Cibersegurança, Desenvolvimento de Sistemas, Programação web Front-end e Programação web Back-end. Meu principal conhecimento em tecnologias são **PHP**, **Java**, **Python**, **JavaScript**, **C/C++**, **Kotlin** e **Rust**. Também estou confortável usando **Laravel**, **Django**, **Vue**, desenvolvendo aplicativos Android usando **Android Studio** e **AWS Service**.
 
+<br>
+<br>
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=darlangui&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darlangui&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darlangui&theme=nord_dark) |
 | :-: | :-: | :-: |
 
