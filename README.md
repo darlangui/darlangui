@@ -23,8 +23,6 @@ Hey there!! I am Darlan :wave:😊
 
 I have knowledge of Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JavaScript**, **C/C++**, **Kotlin** and **Rust**. I am also comfortable using **Laravel**, **Django**, **Vue**, developing Android applications using **Android Studio** and **AWS Service**.
 <br>
-<br>
-<a href="README.pt.md"><button>Switch to Portuguese</button></a>
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=darlangui&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darlangui&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darlangui&theme=nord_dark) |
 | :-: | :-: | :-: |
 
