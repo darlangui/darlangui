@@ -6,7 +6,9 @@
 <b> Software Developer </b>
 <br>
 <br>
-
+    
+<a href="README.pt.md"><button>Switch to Portuguese</button></a>
+    
 <blockquote>
     <p><i>
                             There is no absolute security, only awareness of risks and the minimization of threats!  🗣️⚛✨🎓
