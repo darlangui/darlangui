@@ -21,7 +21,12 @@
 
 Hey there!! I am Darlan :wave:😊
 
-I have knowledge of Cybersecurity, Systems Development, Front-end web programming, and Back-end web programming. My main knowledge in technologies are **PHP**, **Java**, **Python**, **JS/TS**, **Go**, **C/C++**, **Kotlin** and **Rust**. I am also comfortable using **Laravel**, **Django**, **Vue**, developing Android applications using **Android Studio** and **AWS Service**.
+I'm a developer with experience in JavaScript/TypeScript, Kotlin/Java, and Rust, working on both Front-end and Back-end development. I have expertise in frameworks like Vue, React, and Spring Boot with Kotlin, and I also build cross-platform desktop applications using Tauri.
+
+For mobile development, I create native Android apps with Kotlin in Android Studio. On the Back-end, I develop robust and efficient APIs using Rust and Java/Kotlin. Additionally, I have experience deploying and managing services on VPS, ensuring secure and scalable configurations.
+
+I'm always looking for new challenges to enhance my skills and build innovative solutions. 🚀
+
 <br>
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=darlangui&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darlangui&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darlangui&theme=nord_dark) |
 | :-: | :-: | :-: |
