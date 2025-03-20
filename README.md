@@ -3,7 +3,7 @@
 
     
 <div align="center">
-<b> Software Developer </b>
+<b> Software Developer and Cybersecurity Student </b>
 <br>
 <br>
     
