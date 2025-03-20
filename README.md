@@ -21,9 +21,9 @@
 
 Hey there!! I am Darlan :wave:😊
 
-I'm a developer with experience in JavaScript/TypeScript, Kotlin/Java, and Rust, working on both Front-end and Back-end development. I have expertise in frameworks like Vue, React, and Spring Boot with Kotlin, and I also build cross-platform desktop applications using Tauri.
+I'm a developer with experience in JavaScript/TypeScript, Kotlin/Java, PHP (with Laravel), and Rust, working on both Front-end and Back-end development. I work with frameworks like Vue and React, and I also build cross-platform desktop applications using Tauri.
 
-For mobile development, I create native Android apps with Kotlin in Android Studio. On the Back-end, I develop robust and efficient APIs using Rust and Java/Kotlin. Additionally, I have experience deploying and managing services on VPS, ensuring secure and scalable configurations.
+For mobile development, I create native Android apps with Kotlin in Android Studio. On the Back-end, I develop robust and efficient APIs using Rust, Java/Kotlin, and PHP with Laravel. Additionally, I have experience deploying and managing services on VPS, ensuring secure and scalable configurations.
 
 I'm always looking for new challenges to enhance my skills and build innovative solutions. 🚀
 
