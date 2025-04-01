@@ -36,7 +36,7 @@ I'm always looking for new challenges to enhance my skills and build innovative 
 </div>
 <div align="center">
 <b>Thank you for visiting my GitHub profile.</b> <br>
-I'm looking forward to sharing my work with you.
+I'm looking forward to sharing my work with you
 </div>
 </details>
 
